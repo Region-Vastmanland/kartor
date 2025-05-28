@@ -13,3 +13,7 @@ Här samlas Region Västmanlands webbkartor för olika teman.
 [Försörjningskvot 2023](https://region-vastmanland.github.io/kartor/Ortstruktur_Forsorjningskvot23.html) 
 
 [Försörjningskvot förändring 2013-2023](https://region-vastmanland.github.io/kartor/Ortstruktur_Forsorjningskvotforandring.html) 
+
+[Inpendling till tätorter i Västmanland](https://region-vastmanland.github.io/kartor/Inpendling.html) 
+
+[Utpendling från tätorter i Västmanland](https://region-vastmanland.github.io/kartor/Utpendling.html) 

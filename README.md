@@ -19,3 +19,4 @@ Här samlas Region Västmanlands webbkartor för olika teman.
 [Utpendling från tätorter i Västmanland](https://region-vastmanland.github.io/kartor/Utpendling.html) 
 
 [Tillgänglighetsindex 2023](https://region-vastmanland.github.io/kartor/Ortsstruktur/Tillganglighetsindex.html) 
+

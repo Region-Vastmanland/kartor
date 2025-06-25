@@ -20,3 +20,6 @@ Här samlas Region Västmanlands webbkartor för olika teman.
 
 [Tillgänglighetsindex 2023](https://region-vastmanland.github.io/kartor/Tillganglighetsindex.html)
 
+[Inflyttning till tätorter i Västmanland 2024](https://region-vastmanland.github.io/kartor/Inflyttning.html)
+
+[Utflyttning från tätorter i Västmanland 2024](https://region-vastmanland.github.io/kartor/Utflyttning.html)

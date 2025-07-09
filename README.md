@@ -23,3 +23,5 @@ Här samlas Region Västmanlands webbkartor för olika teman.
 [Inflyttning till tätorter i Västmanland 2024](https://region-vastmanland.github.io/kartor/Inflyttning.html)
 
 [Utflyttning från tätorter i Västmanland 2024](https://region-vastmanland.github.io/kartor/Utflyttning.html)
+
+[Ortstruktur med bakgrundskarta från Nordregio] (https://region-vastmanland.github.io/kartor/Ortstruktur_nordregio.html)

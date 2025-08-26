@@ -27,3 +27,5 @@ Här samlas Region Västmanlands webbkartor för olika teman.
 [Ortstruktur med bakgrundskarta från Nordregio](https://region-vastmanland.github.io/kartor/Ortstruktur_nordregio.html)
 
 [Nettopendling](https://region-vastmanland.github.io/kartor/Nettopendling.html)
+
+[Nettoflyttning](https://region-vastmanland.github.io/kartor/Nettoflyttning.html)

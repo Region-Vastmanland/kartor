@@ -30,4 +30,4 @@ Här samlas Region Västmanlands webbkartor för olika teman.
 
 [Nettoflyttning](https://region-vastmanland.github.io/kartor/Nettoflyttning.html)
 
-[UVAS test](https://region-vastmanland.github.io/kartor/UVAS_Socindex_Regso.html)
+

@@ -32,4 +32,4 @@ Här samlas Region Västmanlands webbkartor för olika teman.
 
 [UVAS-RegSo](https://region-vastmanland.github.io/kartor/UVAS_Socindex_Regso2.html)
 
-
+[Befolkning Västmanland 1km-Rutor](https://region-vastmanland.github.io/kartor/1000RutorBefVastmanland.html) 
